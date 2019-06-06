@@ -1,14 +1,11 @@
-# segm-kidney-nets
-Work of Segmentation of the Kidney
-
 # This is a tutorial for anyone who wants to learn Medical Image Segmentation with U-net and 3D U-net:
 ![image](https://github.com/ntamay/segm-kidney-nets/blob/master/Images/Imagem_Metodologia.JPG)
 
 **The tutorial is divided into three parts:**
 
 - **Pre / Pos - Processing**
-- **U-Net: Ronneberger et al.(2015)**
-- **3U-Net: Çicek et al.(2016)**
+- **Learning with U-Net: Ronneberger et al. (2015)**
+- **Learning with 3U-Net: Çicek et al. (2016)**
  
 ### Coming soon: 
 1) Code
