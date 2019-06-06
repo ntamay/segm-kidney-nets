@@ -2,7 +2,7 @@
 Work of Segmentation of the Kidney
 
 # This is a tutorial for anyone who wants to learn Medical Image Segmentation with U-net and 3D U-net:
-![registrtation](https://user-images.githubusercontent.com/24567632/47958113-3b28e800-dfa3-11e8-8efb-205c9db8b3a6.png)
+![image](https://github.com/ntamay/segm-kidney-nets/blob/master/Images/Imagem_Metodologia.JPG)
 
 **The tutorial is divided into three parts:**
 
