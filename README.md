@@ -8,7 +8,7 @@ Work of Segmentation of the Kidney
 
 - **Pre / Pos - Processing**
 - **U-Net: Ronneberger et al.(2015)**
-- **3U-Net:* Çicek et al.(2016)**
+- **3U-Net: Çicek et al.(2016)**
  
 ### Coming soon: 
 1) Code
